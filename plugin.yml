@@ -1,0 +1,11 @@
+name: WorldLeap
+author: piahosnotgun
+version: 1.0.0
+main: cf.urgpa.worldleap.WorldLeap
+commands:
+  월드리프:
+    permission: worldleap.command
+    description: 평지맵으로 이동
+permissions:
+  worldleap.command:
+    default: true

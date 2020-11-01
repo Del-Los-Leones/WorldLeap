@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WorldLeap">
+    <output-path>$PROJECT_DIR$/out/artifacts/WorldLeap</output-path>
+    <root id="archive" name="WorldLeap.jar">
+      <element id="module-output" name="WorldLeap" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
